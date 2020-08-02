@@ -2,7 +2,7 @@ import glob
 import webrtcvad
 import logging
 import wavSplit
-from deepspeech import Model
+from aeiou import Model
 from timeit import default_timer as timer
 
 '''
